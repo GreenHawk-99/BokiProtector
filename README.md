@@ -1,7 +1,7 @@
 # BokiProtector
 
 ### Version
-_**1.0.0**_
+_**1.1.0**_
 
 ### Description
 
@@ -29,7 +29,7 @@ python BokiProtector.py
 
 * Then follow the script instruction: 
   * enter the password you want to hash
-  * put a number as an optional custom salt
+  * **(optional)** _put a number as a custom salt_
 
 ###### Alternatives
 
@@ -52,6 +52,7 @@ Both will run the script in the console but only the .exe doesn't require to hav
 3. [x] **(Optional)** Don't be a retard
 
 
-| Version |                    Change                     |
-|:-------:|:---------------------------------------------:|
-|  1.0.0  | Basic script that hash the password you enter |
+| Version |                         Change                          |
+|:-------:|:-------------------------------------------------------:|
+|  1.1.0  | You can now have the option to make a custom fixed salt |
+|  1.0.0  |      Basic script that hash the password you enter      |
